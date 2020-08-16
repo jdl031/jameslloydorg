@@ -6,7 +6,7 @@ theme = "hugo-theme-codex"
 
 title = "James Lloyd"
 languageCode = "en-us"
-baseURL = "jameslloyd.org"
+baseURL = ""
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
