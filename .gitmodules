@@ -6,8 +6,3 @@
 	path = themes/hugo-theme-codex
 	url = https://github.com/jdl031/hugo-theme-codex.git
 	branch = master
-
-[codex "themes/codex"]
-	branch = master
-[codex "themes/hugo-theme-codex"]
-	branch = master
